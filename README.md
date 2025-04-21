@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nick2191
 - 👀 I’m interested in making a career change into web development. 
 - 🌱 I’m currently learning Full-Stack Web Dev.
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,node,npm,express,postgres,react,nextjs,discordjs,postman&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,nodejs,npm,express,postgres,react,nextjs,discordjs,postman,vscode&theme=dark)](https://skillicons.dev)
 - 💞️ I’m looking to collaborate on beginner friendly side projects, and web apps. 
 - 📫 How to reach me ... TBD
 - 😄 Pronouns: he/him
