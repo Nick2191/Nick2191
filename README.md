@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full-Stack Web Dev.
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,nodejs,npm,express,postgres,react,vite,nextjs,discordjs,postman,vscode&theme=dark&perline=6)](https://skillicons.dev)
-- 💞️ I’m looking to collaborate on beginner friendly side projects, and web apps. 
+- 🤝 I’m looking to collaborate on beginner friendly side projects, and web apps. 
 - 📫 How to reach me ... TBD
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love hockey and the New York Rangers.
